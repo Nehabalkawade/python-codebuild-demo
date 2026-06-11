@@ -7,4 +7,4 @@ average = sum(numbers) / len(numbers)
 print("Highest:", highest)
 print("Lowest:", lowest)
 print("Average:", average)
-git add . && git commit -m "update code" && git push origin main
+print("Hello from GitHub update 🚀")
